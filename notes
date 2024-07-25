@@ -1,0 +1,45 @@
+Final Project: Database Design and Implementation
+
+Congratulations! You have finished the modules. Now is the time to put your skills to the test. In the project you will design a database using an ERD tool and implement the database schema using PostgreSQL, MySQL and (optionally) Db2.
+
+This lab uses IBM Skills Network Labs (SN Labs), which is a virtual lab environment used in this course. Upon clicking "Launch App" your Username and Email will be passed to Skills Network Labs and will only be used for communicating important information to enhance your learning experience, in accordance with IBM Skills Network Privacy policy.
+
+Clicking on the "Launch App" button will open the Lab instructions and Lab environment side-by-side in a new browser tab.  
+
+To view the lab instructions in a different browser tab 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DB0110EN-SkillsNetwork/labs/mysqlphpadmin/week4/final_project_withoutDB2.md.html'
+
+This course uses a third-party app, Final Project: Database Design and Implementation, to enhance your learning experience. The app will reference basic information like your name, email, and Coursera ID.
+
+-------------------------------------
+There are 40 points for 10 tasks in this final project. Your peers will grade your final assignment who are also completing this assignment within the same session. You need to complete the following and submit your responses for peer review. 
+
+For this guided final project, you will need to create an ERD diagram using the pgAdmin ERD tool. You will create database objects using the ERD tool by generating and running the SQL script. Then, you will import the data into a Datasette database.
+
+Analyze the posting by responding to the following questions and statements. Enter your responses in the text boxes provided and submit screenshots when requested. 
+
+To take a screenshot in Windows, use the snipping tool by going to the start menu and opening the snipping tool. Click “New,” then click and drag over the area of the screen you want to screenshot. Save the file as a .png or a .jpg file. 
+
+Click shift+command+4, then click and drag over the area of the screen you want to screenshot on MacOS. The file will be saved to your desktop. 
+
+To upload the file, click upload file, navigate to the file, or drag and drop the file icon onto the window. 
+------------------------------------------
+Task 1: Identify entities (4 pts)
+
+Task 2: Identify attributes (4 pts)
+
+Task 3: Create an ERD using the pgAdmin ERD Tool (4 pts)
+
+Task 4: Normalize tables (4 pts)
+
+Task 5: Define keys and relationships (4 pts)
+
+Task 6: Create database objects by generating and running the SQL script from the ERD Tool (4 pts)
+
+Task 7: Create a view and export the data (4 pts)
+
+Task 8: Create a materialized view and export the data (4 pts)
+
+Task 9: Import staff_location data into a MySQL database (4 pts) 
+
+Task 10: Import coffee_shop_products data into a MySQL database (4 pts) 
+-----------------------------------------------------------------
